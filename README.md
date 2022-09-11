@@ -1,5 +1,5 @@
 # RRT-series-Test
-MATLAB code of rrt, rrt* and smart-rrt
+MATLAB codes of RRT, RRT* and Smart-RRT*.
 
 ## Usage
 
@@ -30,17 +30,4 @@ Run the file 'main.m'.
 
 | RRT | RRT* | Smart-RRT* |
 | :--: | :--: | :--: |
-| <img height="360" src="https://github.com/yiyunevin/RRT-series-Test/blob/main/resultImage/rrt.jpg?raw=true"> |  |  |
-
-
-**RRT**<br>
-
-<p align="center">
-  <img width="40%" src="https://github.com/yiyunevin/RRT-series-Test/blob/main/resultImage/rrt.jpg?raw=true">
-</p>
-
-**RRT***<br>
-
-
-
-**Smart-RRT***<br>
+| <img height="240" src="https://github.com/yiyunevin/RRT-series-Test/blob/main/resultImage/rrt.jpg?raw=true"> | <img height="240" src="https://github.com/yiyunevin/RRT-series-Test/blob/main/resultImage/rrt-star.jpg?raw=true"> | <img height="240" src="https://github.com/yiyunevin/RRT-series-Test/blob/main/resultImage/rrt-star-smart.jpg?raw=true"> |
